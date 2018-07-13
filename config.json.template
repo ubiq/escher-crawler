@@ -1,0 +1,17 @@
+{
+  "gubiq": "127.0.0.1:8588",
+
+  "mongodb": {
+    "user": "escher",
+    "password": "UBQ4Lyfe",
+    "database": "escherdb",
+    "address": "localhost",
+    "port": 27017
+  },
+
+  "intervals": {
+    "block": "10s",
+    "fast": "44s",
+    "full": "7200s"
+  }
+}
