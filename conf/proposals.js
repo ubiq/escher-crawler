@@ -26,7 +26,47 @@ var proposals = [
         index: 3,
         totalWeight: '0',
         totalVotes: 0
+      }
+    ]
+  },
+  {
+    title: 'UIP #2 - Simplify the Network Development Fund',
+    proposal: 'proposal',
+    type: 'UIP',
+    contract: '0x96cf38c234d5e513c4fc783a3ba73d7320f2900b',
+    data: '/ubiq/UIPs/issues/2',
+    uip: '/ubiq/UIPs/master/UIPs/uip-2.md',
+    candidates: [
+      {
+        title: 'Sell all forks of BTC for BTC',
+        index: 1,
+        totalWeight: '0',
+        totalVotes: 0
       },
+      {
+        title: 'Sell all forks of BTC for ETH',
+        index: 2,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: 'Sell all forks of BTC for UBQ',
+        index: 3,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: 'Retain all forks of BTC',
+        index: 4,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: 'Abstain',
+        index: 5,
+        totalWeight: '0',
+        totalVotes: 0
+      }
     ]
   }
 ];
