@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "bignumber.js": "^4.0.2",
+    "extend": ">=3.0.2",
     "jsonfile": "^2.4.0",
     "jsonminify": "^0.4.1",
     "mongoose": "^5.5.3",
