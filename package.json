@@ -10,7 +10,7 @@
     "bignumber.js": "^4.0.2",
     "jsonfile": "^2.4.0",
     "jsonminify": "^0.4.1",
-    "mongoose": "^5.2.0",
+    "mongoose": "^5.5.3",
     "nanotimer": "^0.3.14",
     "request": "^2.87.0",
     "web3": "^0.20.6"
