@@ -68,6 +68,82 @@ var proposals = [
         totalVotes: 0
       }
     ]
+  },
+  {
+    title: 'UIP #4 - Escher logo selection',
+    proposal: 'proposal',
+    type: 'UIP',
+    contract: '0x073c6b68ba00c59163fa3ae79d7c3d263f78981e',
+    data: '/ubiq/UIPs/issues/4',
+    uip: '/ubiq/UIPs/master/UIPs/uip-4.md',
+    candidates: [
+      {
+        title: '1.svg',
+        index: 1,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '2.svg',
+        index: 2,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '3.svg',
+        index: 3,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '4.svg',
+        index: 4,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '5.svg',
+        index: 5,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '6.svg',
+        index: 6,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '7.svg',
+        index: 7,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '8.svg',
+        index: 8,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '9.svg',
+        index: 9,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '10.svg',
+        index: 10,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: '11.svg',
+        index: 11,
+        totalWeight: '0',
+        totalVotes: 0
+      }
+    ]
   }
 ];
 
