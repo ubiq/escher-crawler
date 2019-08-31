@@ -144,6 +144,34 @@ var proposals = [
         totalVotes: 0
       }
     ]
+  },
+  {
+    title: 'UIP #6 - Contribute from the NDF to list Ubiq, GeoCoin and Sphere on CryptoBridge DEX',
+    proposal: 'proposal',
+    type: 'UIP',
+    contract: '0x0fc21e12caa355bf96528deffb1ea0a6914075cb',
+    data: '/ubiq/UIPs/issues/6',
+    uip: '/ubiq/UIPs/master/UIPs/uip-6.md',
+    candidates: [
+      {
+        title: 'Yes',
+        index: 1,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: 'No',
+        index: 2,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: 'Abstain',
+        index: 3,
+        totalWeight: '0',
+        totalVotes: 0
+      }
+    ]
   }
 ];
 
