@@ -30,6 +30,11 @@ var airdrops = [
     title: 'Airdrop #6',
     contract: '0xc62b9e94089e1a45f11b65468874eac34c89ff51',
     multiplier: 1
+  },
+  {
+    title: 'Airdrop #7',
+    contract: '0x7a14ab7851763c030f6e96bdb2fb0993cabe7cb4',
+    multiplier: 1
   }
 ];
 
