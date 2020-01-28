@@ -11,7 +11,7 @@
     "extend": ">=3.0.2",
     "jsonfile": "^2.4.0",
     "jsonminify": "^0.4.1",
-    "mongoose": "^5.5.3",
+    "mongoose": "^5.7.5",
     "nanotimer": "^0.3.14",
     "request": "^2.87.0",
     "web3": "^0.20.6",
