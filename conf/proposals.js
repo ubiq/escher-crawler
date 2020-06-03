@@ -172,6 +172,34 @@ var proposals = [
         totalVotes: 0
       }
     ]
+  },
+  {
+    title: 'UIP #7 - Permanently disable Escher minting',
+    proposal: 'proposal',
+    type: 'UIP',
+    contract: '0x293e27b404b0fed5ee857cf5551cf105f8dd9d7d',
+    data: '/ubiq/UIPs/issues/7',
+    uip: '/ubiq/UIPs/master/UIPs/uip-7.md',
+    candidates: [
+      {
+        title: 'Yes (disable)',
+        index: 1,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: 'No (keep enabled)',
+        index: 2,
+        totalWeight: '0',
+        totalVotes: 0
+      },
+      {
+        title: 'Abstain',
+        index: 3,
+        totalWeight: '0',
+        totalVotes: 0
+      }
+    ]
   }
 ];
 
